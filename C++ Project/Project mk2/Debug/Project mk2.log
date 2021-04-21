@@ -1,0 +1,3 @@
+﻿  User.cpp
+D:\Liam Neate\Documents\University\C++\Project\Project mk2\Project mk2\User.cpp(32,10): warning C4101: 'goAgain': unreferenced local variable
+  Project mk2.vcxproj -> D:\Liam Neate\Documents\University\C++\Project\Project mk2\Debug\Project mk2.exe
