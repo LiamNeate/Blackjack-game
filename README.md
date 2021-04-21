@@ -8,7 +8,7 @@ My programs aim was to create a realistic gambling experience against an AI. The
 -	Use external files to store data<br>
 -	Create a currency for the user to gamble with<br><br>
 To create a random and fair game, each game will randomly select cards and deal them between the user and the dealer (computer). To have multiple user profiles, the program will give the user the option to either sign in or create an account. These accounts will be stored locally and be updated as the users uses them. The accounts and the cards will eb stored externally. This means that the user accounts will be able to store data when the program is closed, and that the cards are never changed. Once the user has created an account, they will be given a starting amount of currency to play with. This will then be changed depending on how well they do in the games. If the user runs out of money, it will reset them back to the default amount of money. Since each user has an account, I have added a check when creating an account to make sure that another user does not have the same username, as well as adding a check for the password to make sure it is hard enough.<br><br>
-When the user first starts the program, they will be given a simple menu asking if the user will either: <br>
+When the user first starts the program, they will be given a simple menu asking if the user will either: <br><br>
 -	Login<br>
 -	Register<br>
 -	Quit <br><br>
